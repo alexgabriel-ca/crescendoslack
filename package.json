@@ -1,0 +1,17 @@
+{
+	"name": "crescendo-slack",
+	"version": "1.0.0",
+	"description": "Crescendo anonymous messaging app",
+	"main": "main.js",
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"express": "^4.16.4",
+		"request": "^2.88.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Alex Gabriel",
+	"license": "GPL-3.0"
+}
